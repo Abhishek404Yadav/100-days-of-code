@@ -35,7 +35,7 @@
 ### Day 2: Janruary 31, 2022 
 **Today's Progress**: I have gone through some practice question in Hackearth
 
-**Thoughts:** Started coding on HackerRank.
+**Thoughts:** Started coding on Hackerearth.
 
 **Link to work:**
 [ZOO](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/)  [Solution](https://www.hackerearth.com/submission/68606080/)
