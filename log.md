@@ -17,7 +17,7 @@
 **Thoughts:** Started coding on HackerRank.
 
 **Link to work:**
-**1:** [JAVA-end-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=true)  [Solution](https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=true)
+[JAVA-end-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=true)  [Solution](https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=true)
 
 
 # 100 Days Of Code - Log
@@ -28,4 +28,15 @@
 **Thoughts:** Started coding on HackerEarth.
 
 **Link to work:**
-**1:** [Divisible](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisibe-or-2d8e196a/)  [Solution](https://www.hackerearth.com/submission/68543196/)
+[Divisible](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisibe-or-2d8e196a/)  [Solution](https://www.hackerearth.com/submission/68543196/)
+
+# 100 Days Of Code - Log
+
+### Day 2: Janruary 31, 2022 
+**Today's Progress**: I have gone through some practice question in Hackearth
+
+**Thoughts:** Started coding on HackerRank.
+
+**Link to work:**
+[ZOO](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/)  [Solution](https://www.hackerearth.com/submission/68606080/)
+
