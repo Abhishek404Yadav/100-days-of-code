@@ -7,7 +7,7 @@
 
 **Link to work:**
 **1:** [ATM-](https://www.codechef.com/problems/HS08TEST)  [Solution](https://www.codechef.com/viewsolution/57258004)
-**2:** [Add Two Numbers-](https://www.codechef.com/problems/FLOW001)  [Solution](https://www.codechef.com/viewsolution/57259965)
+**2:** [ADD TWO NUMBERS-](https://www.codechef.com/problems/FLOW001)  [Solution](https://www.codechef.com/viewsolution/57259965)
 
 # 100 Days Of Code - Log
 
@@ -22,17 +22,17 @@
 
 # 100 Days Of Code - Log
 
-### Day 2: Janruary 30, 2022 
+### Day 3: Janruary 30, 2022 
 **Today's Progress**: I have gone through some practice question in Hackearth
 
 **Thoughts:** Started coding on HackerEarth.
 
 **Link to work:**
-[Divisible](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisibe-or-2d8e196a/)  [Solution](https://www.hackerearth.com/submission/68543196/)
+[DIVISIBLE](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisibe-or-2d8e196a/)  [Solution](https://www.hackerearth.com/submission/68543196/)
 
 # 100 Days Of Code - Log
 
-### Day 2: Janruary 31, 2022 
+### Day 4: Janruary 31, 2022 
 **Today's Progress**: I have gone through some practice question in Hackearth
 
 **Thoughts:** Started coding on Hackerearth.
@@ -40,3 +40,12 @@
 **Link to work:**
 [ZOO](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/)  [Solution](https://www.hackerearth.com/submission/68606080/)
 
+# 100 Days Of Code - Log
+
+### Day 5: February 1, 2022 
+**Today's Progress**: I have gone through some practice question in Hackearth
+
+**Thoughts:** Started coding on Hackerearth.
+
+**Link to work:**
+[SPLIT HOUSE](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/split-house-547be0e9/)  [Solution](https://www.hackerearth.com/submission/68632220/)  
