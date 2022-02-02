@@ -49,3 +49,14 @@
 
 **Link to work:**
 [SPLIT HOUSE](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/split-house-547be0e9/)  [Solution](https://www.hackerearth.com/submission/68632220/)  
+
+# 100 Days Of Code - Log
+
+### Day 6: February 2, 2022 
+**Today's Progress**: I have gone through some practice question in Hackearth
+
+**Thoughts:** Started coding on Hackerearth.
+
+**Link to work:**
+[AlI-HELP](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cartag-948c2b02/)  [Solution](https://www.hackerearth.com/submission/68656051/)  
+
