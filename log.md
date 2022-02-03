@@ -48,7 +48,7 @@
 **Thoughts:** Started coding on Hackerearth.
 
 **Link to work:**
-[SPLIT HOUSE](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/split-house-547be0e9/)  [Solution](https://www.hackerearth.com/submission/68632220/)  
+[SPLIT HOUSE](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/split-house-547be0e9/)  [Solution](https://github.com/Abhishek404Yadav/CODE/blob/ce5721ef864a387aad58a436ad4d32c894c9e211/Hackerearth/Basic%20Of%20IO/SplitHouse.java)  
 
 # 100 Days Of Code - Log
 
