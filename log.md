@@ -28,7 +28,7 @@
 **Thoughts:** Started coding on HackerEarth.
 
 **Link to work:**
-[DIVISIBLE](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisibe-or-2d8e196a/)  [Solution](https://www.hackerearth.com/submission/68543196/)
+[DIVISIBLE](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/divisibe-or-2d8e196a/)  [Solution](https://github.com/Abhishek404Yadav/CODE/blob/5ba29226c472af1c5a3c3725399110b08f9a9ec4/Hackerearth/Basic%20Of%20IO/Divisible.java)
 
 # 100 Days Of Code - Log
 
