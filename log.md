@@ -6,8 +6,8 @@
 **Thoughts:** Started coding on Codechef , solved a problem,Faced some issue of exceptions while coding on JAVA using codechef but solved them with the help of Try Catch.
 
 **Link to work:**
-**1:** [ATM-](https://www.codechef.com/problems/HS08TEST)  [Solution](https://www.codechef.com/viewsolution/57258004)
-**2:** [ADD TWO NUMBERS-](https://www.codechef.com/problems/FLOW001)  [Solution](https://www.codechef.com/viewsolution/57259965)
+**1:** [ATM-](https://www.codechef.com/problems/HS08TEST)  [Solution](https://github.com/Abhishek404Yadav/CODE/blob/0c852225a1dd965dbe2a77c6ddf0c35ced525939/Hackerearth/Basic%20Of%20IO/Atm.java)
+**2:** [ADD TWO NUMBERS-](https://www.codechef.com/problems/FLOW001)  [Solution](https://github.com/Abhishek404Yadav/CODE/blob/17d38974e8df452b3af172b7d88bb7a3ac3ad92a/Hackerearth/Basic%20Of%20IO/Add2No.java)
 
 # 100 Days Of Code - Log
 
@@ -17,7 +17,7 @@
 **Thoughts:** Started coding on HackerRank.
 
 **Link to work:**
-[JAVA-end-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=true)  [Solution](https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=true)
+[JAVA-end-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem?isFullScreen=true)  [Solution](https://github.com/Abhishek404Yadav/CODE/blob/17d38974e8df452b3af172b7d88bb7a3ac3ad92a/Hackerearth/Basic%20Of%20IO/JavaEndofFile.java)
 
 
 # 100 Days Of Code - Log
@@ -38,7 +38,7 @@
 **Thoughts:** Started coding on Hackerearth.
 
 **Link to work:**
-[ZOO](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/)  [Solution](https://www.hackerearth.com/submission/68606080/)
+[ZOO](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/is-zoo-f6f309e7/)  [Solution](https://github.com/Abhishek404Yadav/CODE/blob/0c852225a1dd965dbe2a77c6ddf0c35ced525939/Hackerearth/Basic%20Of%20IO/Zoo.java)
 
 # 100 Days Of Code - Log
 
@@ -58,5 +58,5 @@
 **Thoughts:** Started coding on Hackerearth.
 
 **Link to work:**
-[AlI-HELP](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cartag-948c2b02/)  [Solution](https://www.hackerearth.com/submission/68656051/)  
+[AlI-HELP](https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/cartag-948c2b02/)  [Solution](https://github.com/Abhishek404Yadav/CODE/blob/0c852225a1dd965dbe2a77c6ddf0c35ced525939/Hackerearth/Basic%20Of%20IO/NumPlate.java)  
 
